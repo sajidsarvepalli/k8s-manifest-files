@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: cont1
-          image: shaikmustafa/paytm:bus
+          image: shaikmustafa/paytm:bank
           ports:
             - containerPort: 80
